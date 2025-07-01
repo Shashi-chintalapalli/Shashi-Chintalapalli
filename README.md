@@ -1,19 +1,26 @@
 <h1 align="center">Hi there, I'm Shashi Kumar Reddy Chintalapalli 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/shashi-chintalapalli"><img src="https://komarev.com/ghpvc/?username=shashi-chintalapalli&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-chintalapalli" /></a>
+  <a href="https://github.com/shashi-chintalapalli">
+    <img src="https://komarev.com/ghpvc/?username=shashi-chintalapalli&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
 
 <table>
   <tr>
     <td width="55%">
-      <h3>👨‍💻 About Me</h3>
+      <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>🔭 I'm passionate about Machine Learning & Deep Learning</li>
-        <li>📊 Skilled in Data Science, NLP, Computer Vision</li>
-        <li>🌱 Currently exploring new ML tools and frameworks</li>
-        <li>📫 Reach me at: <b>shashi.job.960@gmail.com</b></li>
-        <li>🌐 Portfolio: <a href="https://your-portfolio-link.com" target="_blank">Visit My Portfolio</a></li>
+        <li>🧠 I'm passionate about Machine Learning & Deep Learning</li>
+        <li>📚 Skilled in Data Science, NLP, and Computer Vision</li>
+        <li>🚀 Exploring new ML tools and real-time applications</li>
+        <li>📫 Email: <b>shashi.job.960@gmail.com</b></li>
+        <li>🌐 Portfolio: <a href="https://shashi-chintalapalli.github.io/" target="_blank">Visit My Portfolio</a></li>
+      </ul>
+      <h3>🚀 Featured Projects</h3>
+      <ul>
+        <li><a href="https://movie-review-sentiment-analyzer-f864.onrender.com/" target="_blank">🎬 Movie Review Sentiment Analyzer</a></li>
+        <li><a href="https://personal-ai-assistant-7m7l.onrender.com/" target="_blank">🧠 Personal AI Assistant</a></li>
       </ul>
       <h3>💻 Tech Stack</h3>
       <p>
@@ -33,13 +40,14 @@
     <td width="45%" align="center">
       <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-5529016-4606516.png" width="80%" />
       <br><br>
-      <h4>📈 GitHub Stats</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="90%"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-chintalapalli&layout=compact&theme=dark" width="90%"/>
+      <h4>📊 GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="90%" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-chintalapalli&layout=compact&theme=dark" width="90%" />
     </td>
   </tr>
 </table>
 
 ---
 
-<p align="center">✨ Show some ❤️ by starring some repositories ✨</p>
+<p align="center">✨ Show some ❤️ by starring my repositories! ✨</p>
