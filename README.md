@@ -54,12 +54,12 @@
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
       </p>
     </td>
-<td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/kapeelkokane/portfolio-assets/main/images/ml-banner.png" width="80%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="90%" />
-</td>
-</tr>
+    <td width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/kapeelkokane/portfolio-assets/main/images/ml-banner.png" width="80%" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="90%" />
+    </td>
+  </tr>
 </table>
 
 ---
