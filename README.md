@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="45%">
       <h2>👨‍💻 About Me</h2>
       <ul>
         <li>🧠 I'm passionate about Machine Learning & Deep Learning</li>
@@ -37,7 +37,7 @@
         <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
       </p>
     </td>
-    <td width="45%" align="center">
+    <td width="35%" align="center">
       <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-5529016-4606516.png" width="80%" />
       <br><br>
       <h4>📊 GitHub Stats</h4>
