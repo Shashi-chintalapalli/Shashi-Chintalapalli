@@ -20,7 +20,7 @@
         <li>🧠 I'm passionate about Machine Learning & Deep Learning</li>
         <li>📚 Skilled in Data Science, NLP, Computer Vision</li>
         <li>🚀 Currently exploring new ML tools and frameworks</li>
-        <li>📫 Reach me at: <b>shashi.job.960@gmail.com</b></li>
+        <li>📫 Reach me at: <b>shashi.chintalapalli@gmail.com</b></li>
         <li>🌐 <a href="https://shashi-chintalapalli.github.io/">Visit My Portfolio</a></li>
       </ul>
       <h3>🚀 Featured Projects</h3>
