@@ -55,7 +55,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/machine-learning-7292018-5935866.png" width="80%" />
+      <img src="https://raw.githubusercontent.com/Shashi-chintalapalli/assets/main/images/ml-illustration.png" width="80%" />
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="90%" />
     </td>
