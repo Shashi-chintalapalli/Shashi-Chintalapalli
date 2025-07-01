@@ -55,7 +55,7 @@
       </p>
     </td>
 <td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/Shashi-chintalapalli/assets/main/images/ml-illustration.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/kapeelkokane/portfolio-assets/main/images/ml-banner.png" width="80%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="90%" />
 </td>
