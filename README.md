@@ -15,7 +15,6 @@
         <li>📫 Reach me at: <b>shashi.job.960@gmail.com</b></li>
         <li>🌐 Portfolio: <a href="https://your-portfolio-link.com" target="_blank">Visit My Portfolio</a></li>
       </ul>
-
       <h3>💻 Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -31,7 +30,6 @@
         <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
       </p>
     </td>
-
     <td width="45%" align="center">
       <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-5529016-4606516.png" width="80%" />
       <br><br>
