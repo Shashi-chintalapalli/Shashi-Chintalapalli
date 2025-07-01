@@ -55,7 +55,7 @@
       </p>
     </td>
     <td width="45%" align="center">
-      <img src="https://camo.githubusercontent.com/f86cfda14fb901ef0a02245eeee3f4c7a52d9fa60aac2494ad70efee2f309623/68747470733a2f2f63646e692e69636f6e73636f75742e636f6d2f696c6c757374726174696f6e2f7072656d69756d2f7468756d622f646576656c6f7065722d353532393031362d343630363531362e706e67" width="80%" />
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/machine-learning-7292018-5935866.png" width="80%" />
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=shashi-chintalapalli&show_icons=true&theme=dark" width="90%" />
     </td>
