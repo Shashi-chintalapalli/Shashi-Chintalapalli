@@ -25,9 +25,10 @@
       </ul>
       <h3>🚀 Featured Projects</h3>
       <ul>
-        <li><a href="https://movie-review-sentiment-analyzer-f864.onrender.com/">🎬 Movie Review Sentiment Analyzer</a></li>
+         <li><a href="https://movie-review-sentiment-analyzer-f864.onrender.com/">🎬 Movie Review Sentiment Analyzer</a></li>
         <li><a href="https://personal-ai-assistant-7m7l.onrender.com/">🧠 Personal AI Assistant</a></li>
         <li><a href="https://shashi-chintalapalli.github.io/">🌐 Portfolio Website</a></li>
+        <li><a href="https://chat-with-pdf-nacz.onrender.com/">📄 Chat with Your PDF</a></li>
       </ul>
       <h3>🧠 Skills & Tools</h3>
       <p>
