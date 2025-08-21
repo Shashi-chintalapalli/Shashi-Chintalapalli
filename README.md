@@ -28,7 +28,7 @@
          <li><a href="https://movie-review-sentiment-analyzer-f864.onrender.com/">🎬 Movie Review Sentiment Analyzer</a></li>
         <li><a href="https://personal-ai-assistant-7m7l.onrender.com/">🧠 Personal AI Assistant</a></li>
         <li><a href="https://shashi-chintalapalli.github.io/">🌐 Portfolio Website</a></li>
-        <li><a href="https://chat-with-pdf-nacz.onrender.com/">📄 Chat with Your PDF</a></li>
+        <li><a href="https://chatbot-shashi.streamlit.app/">📄 ChatGroq — Multi-Document Q&A</a></li>
         <li><a href="https://document-extracter-shashi.streamlit.app/">🧾 Document Scanner + Text Extractor</a></li>
       </ul>
       <h3>🧠 Skills & Tools</h3>
